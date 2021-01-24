@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-
+[![Build Status](https://dev.azure.com/AliceDemos001/GitHub%20Actions/_apis/build/status/cpyap7.ContosoAir?branchName=master)](https://dev.azure.com/AliceDemos001/GitHub%20Actions/_build/latest?definitionId=3&branchName=master)
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
